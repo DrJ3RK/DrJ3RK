@@ -1,1 +1,1 @@
-
+This folder will have subfolders with grouped files for a complete project build.  They will be version specific, and may not match the latest edits in the other locations.
