@@ -1,1 +1,1 @@
-
+This folder may contain some Proteus project files.  Not many people use this software, so I don't estimate this will be much use to anyone but myself.  I just wanted a central location that I could store some of them.  (in some cases)
