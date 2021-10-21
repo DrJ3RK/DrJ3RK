@@ -1,1 +1,2 @@
-
+Note: Currently this version of the completed PCB has not been tested as of 10/21/21.  Boards have been ordered, and will be tested ASAP.  (within the week)
+I'll update this file and folder with any needed changes as soon as testing is complete.
