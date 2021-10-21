@@ -1,0 +1,113 @@
+Bill Of Materials
+=================
+Design:   C:\Users\DS\Desktop\Design-10-21-2021\ModulationEngine\ModulationEngine-2.2-PCB.DSN
+Doc. no.: <NONE>
+Revision: 2.2
+Author:   Dustin Stroh
+Created:  12/23/11
+Modified: 10/21/21
+
+QTY  PART-REFS           VALUE               CODE                          
+---  ---------           -----               ----                          
+Resistors - Through Hole - Metal Film - 1%
+---------
+1    R1                  820R                                              
+15   R2,R45,R55,R65,     10K                                               
+     R87,R88,R92-R97,
+     R99,R106,R107
+2    R3,R4               499K                                              
+1    R5                  26.5K                                             
+1    R6                  267R                                              
+1    R7                  4.32K                                             
+1    R8                  267K                                              
+1    R9                  27K                                               
+1    R10                 49.9K                                             
+25   R11-R19,R31,R32,    20K                                               
+     R34-R36,R40-R42,
+     R100,R101,
+     R103,R104,R109-R112
+9    R20-R22,R43,R44,    100R                                              
+     R47,R52,R102,R108
+4    R23,R83,R84,R113    2K                                                
+3    R24,R53,R114        330R                                              
+1    R26                 1.2M                                              
+1    R27                 91K                                               
+1    R28                 5.6K                                              
+7    R29,R39,R50,R51,    100K                                              
+     R54,R91,R98
+4    R30,R33,R37,R38     220R                                              
+1    R46                 12K                                               
+1    R48                 4.7k                                              
+1    R49                 4.7R                                              
+21   R56,R58,R60,R62,    22k                                               
+     R64,R66,R68,
+     R70-R74,R76-R78,
+     R80,R81,R85,R86,
+     R89,R90
+2    R57,R67             120k                                              
+4    R59,R61,R63,R69     1k                                                
+2    R75,R82             470R                                              
+1    R79                 560R                                              
+1    R105                33K                                               
+
+Capacitors - Through Hole (2.5mm Lead Spacing unless noted) - Tested with TDK C0G MLCC (unless noted)
+----------
+6    C1-C3,C6,C7,C24     10nF                                                           
+2    C4,C5               330nF                                             
+1    C8                  2.2nF          Polystyrene is Best, or C0G.  (Tested using Polystyrend)  Value can be tweaked from around 3.3nF to 1nF                                             
+4    C9,C13,C23,C30      100nF                                             
+4    C10-C12,C33         22pF                                              
+1    C14                 10uF		AC Coupling Capacitor.  Choose to taste.                                              
+8    C15,C18,C19,C21,    100pF                                             
+     C25,C27-C29
+4    C16,C17,C20,C22     1200pF                                            
+1    C26                 220nF                                             
+2    C31,C32             47pF                                              
+
+Integrated Circuits - SOIC unless noted.
+-------------------
+1    U1                  LM4040-2.5     TO-92 type through hole part.                                        
+1    U2                  J2131          SSI 2131 VCO IC                                             
+1    U3                  7905		TO-220                                              
+3    U4,U14,U16          TL074                                                       
+1    U5                  J2164          SSI2164 (Circuit designed around the SSI part.  Do not use other 2164 ICs.)                                             
+3    U6,U7,U24           OPA2134UA      Good performance op amps preferred here.  OPA, LME, etc.                                   
+3    U8,U22,U25          TL071                                             
+1    U9                  DG418          DG418LDY+ (actual MFG part number)                                   
+1    U10                 OPA2132U       Low Drift Op Amp preferred here.                                     
+2    U11,U21             40106                                             
+1    U12                 LM8261M5       Specifically chosen to drive the capacitive load of the sample node.  (SOT23-5 Package)                                   
+1    U13                 OPA132U        OPA132, or better yet OPA140 should be used here for low bias, low leakage, low drift.                                   
+1    U15                 LM13700                                           
+1    U17                 TL072                                             
+2    U18,U20             4094                                              
+1    U19                 4070                                              
+1    U23                 7805           TO-220 type through hole part.                                   
+
+Transistors
+-----------
+3    Q1,Q2,Q5            2N3904         TO-92 type through hole part.                                   
+2    Q3,Q4               2N3906         TO-92 type through hole part.                                   
+
+Diodes
+------
+2    D1,D14              LED-GREEN      Lumex Press Fit (Snap In) 8mm LED+LENS+BEZZEL 2-Lead-Bicolor used.                                   
+2    D2,D3               BAT46                                             
+1    D4                  LED-YELLOW     Lumex Press Fit (Snap In) 8mm LED+LENS+BEZZEL Single Color used.                                   
+7    D5-D10,D13          1N4148         Through Hole Axial                                    
+2    D11,D12             1N4733A        Through Hole Axial DO41                                  
+
+Miscellaneous
+-------------
+2    ASHP,DSHP           50K            Panel Mounted Pots.                                   
+40   BP1-BP40            100nF          0805 SMT 100nF Bypass/Decoupling Capacitors.                                   
+2    FB1,FB2             0R             Ferrite Beads, 10R resistors, or in a pinch jumpers.                                   
+1    J1                  SIL-156-04     MTA-156 Friction Lock Power Header (MOTM Style)                                   
+7    LINFM1,PWM1,SLDN1,  100K           Panel Mounted Pots.                                   
+     SLUP1,VCOTUN,
+     VOFF1,VOFF2
+2    PF1,PF2             10uF           10uF Through Hole Electrolytic Power Filtering Capacitors for Inlet.                                   
+2    SW1,SW2             SW-ROT-3       These are actually SP3T Toggles set up as selector switches.                                   
+4    UB1-UB3,VCORATE1    SW-SPST        These are either SPST or SPDT Toggles.                                   
+
+
