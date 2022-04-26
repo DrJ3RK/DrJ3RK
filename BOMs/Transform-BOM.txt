@@ -1,0 +1,46 @@
+Bill Of Materials
+=================
+
+Modified: 04/26/22
+
+QTY  PART-REFS           VALUE               CODE                          
+---  ---------           -----               ----                          
+Resistors
+---------
+13   R1,R3,R11,R12,      100K                                              
+     R14,R15,R21-R26,R33
+4    R2,R5,R9,R10        220R                                              
+4    R4,R6-R8            20K                                               
+15   R13,R17,R18,        10K                                               
+     R27-R31,R34-R40
+1    R13-OPT-MODE        680k                                              
+1    R16                 820R                                              
+3    R19,R20,R32         100R                                              
+
+Capacitors
+----------
+6    C1,C4,C5,C7,C14,C15 100pF                                             
+4    C2,C3,C6,C8         1200pF                                            
+1    C9                  10nF                                              
+2    C10,C11             22pF                                              
+2    C12,C13             33pF                                              
+
+Integrated Circuits
+-------------------
+1    U1                  J2164            SSI2164 Only.  Others subject to failure.                                 
+5    U2,U3,U6-U8         OPA2134UA        Any good op amp.  LME49720 / OPA1642 / OPA2134                                 
+1    U4                  LM4040-5         TO-92                                 
+1    U5                  TLE2062          Recommend this part here.                                 
+
+Miscellaneous
+-------------
+16   BP1-BP16            100nF            0805 Bypass Capacitors                                 
+1    FADE1               10K                                               
+2    FB1,FB2             0R               Ferrite Beads                                 
+1    J1                  SIL-156-04       Power Header                                 
+2    OFFSET1,OFFSET2     100K                                              
+1    PANFADE1            SW-SPST          Recommend NKK Toggle or E-Switch Pushbutton (depending on panel)                                 
+2    PF1,PF2             10uF             Electrolytic 10uF Filter Capacitors                                 
+1    VCADETATCH1         SW-DPST          This can be one DPST/DPDT or two SPST/SPDT                                 
+
+

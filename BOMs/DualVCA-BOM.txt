@@ -1,0 +1,38 @@
+Bill Of Materials
+=================
+
+Modified: 04/26/22
+
+QTY  PART-REFS           VALUE               CODE                          
+---  ---------           -----               ----                          
+Resistors
+---------
+6    R1,R3,R11-R14       100K                                              
+4    R2,R5,R9,R10        220R                                              
+4    R4,R6-R8            20K                                               
+2    R15,R16             100R                                              
+8    R17-R22,R24,R25     10K                                               
+1    R23                 820R                                              
+
+Capacitors
+----------
+4    C1,C4,C5,C7         100pF                                             
+4    C2,C3,C6,C8         1200pF                                            
+1    C9                  10nF                                              
+
+Integrated Circuits
+-------------------
+1    U1                  J2164             SSI2164 Only.  Others are subject to failure.                                
+3    U2-U4               OPA2134UA         Any good op amp will do here.  LME49720 / OPA1642 / OPA2134 etc.                                
+1    U5                  LM4040-5          TO-92                                
+1    U6                  TLE2062           Recommend this part here.                                
+
+Miscellaneous
+-------------
+10   BP1-BP10            100nF             0805 Bypass Capacitors                                
+2    FB1,FB2             0R                Ferrite Beads                                
+1    J1                  SIL-156-04        Power Header                                
+2    OFFSET1,OFFSET2     100K                                              
+2    PF1,PF2             10uF              Electrolytic 10uF Filter Capacitors                                
+
+
