@@ -36,7 +36,7 @@ Capacitors
 ----------
 1    C1                  10nF                                              
 1    C2                  22pF                                              
-1    C3                  2.2nF          *Recommend Polystyrene 1nF to 4.7nF (integrator capacitor)                                         
+1    C3                  2.2nF          *Recommend Polypropylene or Polystyrene 1nF to 4.7nF (integrator capacitor)                                         
 3    C4,C10,C11          47pF                                              
 2    C5,C6               10pF                                              
 3    C7,C12,C13          100pF                                             
