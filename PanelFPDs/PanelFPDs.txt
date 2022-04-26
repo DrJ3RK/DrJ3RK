@@ -1,1 +1,11 @@
-These front panel FPDs are provided as-is.  You can use them, modify them, take elements from them, etc.  They are in LW (Loudest Warning) 4U format.  They can mount on Vector rails, in various third party LW "boats" and cases.  Some of them may not match PCBs and Schematics 1:1, and may need modifications to bring a certain feature set to the panel from the board.
+These front panel FPDs are provided as-is.  
+You can use them, modify them, take elements from them, etc.  
+They are in LW (Loudest Warning) 4U format.  
+They can mount on Vector rails, in various third party LW "boats" and cases.  
+Some of them may not match PCBs and Schematics 1:1, and may need modifications to bring a certain feature set to the panel from the board.
+
+Update 4-26-2022:
+I've uploaded a bunch more panel files.  Once again, some features may or may not be present on the schematic or PCB that you're using.
+I recommend checking the FPD against the schematic.  I occasionally add features after the face with additional PCBs, panel hardware, etc.
+
+More will be coming soon.
