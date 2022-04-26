@@ -1,0 +1,87 @@
+Bill Of Materials
+=================
+
+QTY  PART-REFS           VALUE               CODE                          
+---  ---------           -----               ----                          
+Resistors
+---------
+4    R1,R17,R59,R64      1k                                                
+4    R2,R3,R10,R18       10K                                               
+30   R4-R6,R19-R23,      100K                                              
+     R26,R27,R29-R31,
+     R36,R37,R39,R41,
+     R44,R45,R47,R50,
+     R53-R56,R60,R65,
+     R68,R70,R71
+1    R7                  3.3M                                              
+1    R8                  220K                                              
+1    R9                  390R                                              
+1    R11                 499K                                              
+1    R12                 15K                                               
+7    R13,R15,R38,R52,    100R                                              
+     R62,R67,R72
+1    R14                 68K                                               
+3    R16,R73,R75         2.2K                                              
+5    R24,R28,R35,R57,R69 49.9K                                             
+1    R25                 200K                                              
+4    R32-R34,R51         47K                                               
+2    R40,R46             97.6k                                             
+2    R42,R48             150k                                              
+2    R43,R49             300k                                              
+2    R58,R63             60.4K                                             
+2    R61,R66             20K                                               
+2    R74,R76             330R                                              
+
+Capacitors
+----------
+1    C1                  10nF                                              
+1    C2                  22pF                                              
+1    C3                  2.2nF          *Recommend Polystyrene 1nF to 4.7nF (integrator capacitor)                                         
+3    C4,C10,C11          47pF                                              
+2    C5,C6               10pF                                              
+3    C7,C12,C13          100pF                                             
+2    C8,C9               1nF                                               
+2    C14,C15             330pF                                             
+
+Integrated Circuits
+-------------------
+1    U1                  LM4040-5                                          
+1    U2                  LF412                                             
+1    U3                  SSM2212        *LS318 works great here, and costs less.                                           
+2    U4,U18              OPA134PA       *CA3140 also works well in these positions.                                   
+8    U5,U7-U12,U16       OPA2134PA      *LF412 and OPA2132 also work well.                                   
+1    U6                  LM393                                             
+2    U13,U19             LF353          *LF353 best for U13. (decent output current)                                    
+2    U14,U17             LF351          *LF351 best for U14. (decent output current)                                    
+1    U15                 LM13700                                           
+
+Transistors
+-----------
+1    Q1                  MMBF4391       *Highly recommend MMBF4391 though other SMT or TH *SWITCHING* JFETs work.
+                                        *Be careful of pinouts for JFET.                                            
+2    Q2,Q3               2N3904                                            
+
+Diodes
+------
+4    D1-D4               DIODE          *Any small signal switching diode.  (1n4148 for example)                                            
+
+Miscellaneous
+-------------
+5    COARSE, FINE,       100K          
+     PHASE, PMLVL,
+     LINFM 
+4    BALANCE1, INIT1,    100K           *Trim                                                  
+     SAWT1, SHAPE1
+36   BP1-BP36            100nF          *Bypass / PS Decoupling capacitors                                              
+2    FB1,FB2             0R             *Ferrite Beads                                   
+1    HF1                 1M             *Trim                                   
+1    J2                  SIL-156-04                                        
+2    LED1,LED2           LED-BIRG       *2-Lead Bi-Color LEDs                                   
+2    PF1,PF2             10uF           *Power Filter Electrolytic capacitors                                   
+1    SCALE1              100R           *Trim                                   
+2    SINET1,SINET3       25K            *Trim                                   
+2    SINET2,SINET4       500R           *Trim                                   
+1    TC1                 2K             *Tempco                                   
+
+Note on Trim Pots: All trims are 3362P type, though others can be substituted should you want more turns for 
+scale and high frequency adjustment).

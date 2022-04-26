@@ -1,0 +1,53 @@
+Bill Of Materials
+=================
+
+QTY  PART-REFS           VALUE               CODE                          
+---  ---------           -----               ----                          
+Resistors
+---------
+3    R1,R19,R21          100R                                              
+9    R2-R9,R14           3K                                                
+5    R10,R13,R22,R24,R25 10K                                               
+1    R11                 4.99K                                             
+5    R12,R16-R18,R31     100K                                              
+1    R15                 130K                                              
+1    R20                 1M                                                
+1    R23                 6.8K                                              
+1    R26                 47k                                               
+1    R28                 1.2M                                              
+1    R29                 91K                                               
+1    R30                 5.6K                                              
+
+Capacitors
+----------
+1    C1                  1uF                                               
+1    C2                  22uF              AC Coupling Capacitor (1uF to 22uF (higher = lower frequency response))                                
+1    C3                  100nF                                             
+1    C4                  10uF              AC Coupling Capacitor (1uF to 22uF (higher = lower frequency response))                                
+
+Integrated Circuits
+-------------------
+2    U1,U2               4041                                              
+1    U3                  4094                                              
+1    U4                  LM311                                             
+1    U5                  OPA2134PA                                         
+1    U6                  4070                                              
+1    U7                  40106                                             
+1    U8                  TL071                                             
+
+Transistors
+-----------
+3    Q1-Q3               2N3904                                            
+
+Miscellaneous
+-------------
+11   BP1-BP11            100nF            0805 Bypass Capacitors                                 
+2    FB1,FB2             0R               Ferrite Beads                                 
+1    J1                  SIL-156-04       Power Header                                 
+8    LED1-LED8           LED-BIRG         Bi-Color 2-Lead LEDs (recommend Lumex)                                 
+1    LFCMP1              SW-SPDT          Recommend NKK Toggle                                 
+2    PF1,PF2             100uF            Electrolytic 100uF Filter Capacitors                                 
+1    RN1                 10k              Bourns R/2R Resistor Ladder (DAC for voltage output)                                 
+1    THRESH1             100K                                              
+
+
