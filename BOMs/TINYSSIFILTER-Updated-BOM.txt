@@ -1,0 +1,54 @@
+Bill Of Materials
+=================
+Design:   C:\Users\DS\Desktop\Design-4-27-2022-SORTED\CURRENTRUNNING\2144Filter\TINYSSIFILTER-Updated.DSN
+Doc. no.: <NONE>
+Revision: <NO
+Author:   <NONE>
+Created:  12/23/11
+Modified: 04/27/22
+
+QTY  PART-REFS           VALUE               CODE                          
+---  ---------           -----               ----                          
+Resistors
+---------
+1    R1                  11.5K                                             
+1    R2                  18K                                               
+1    R3                  68K                                               
+3    R4-R6               33K                                               
+1    R7                  24.3K                                             
+2    R8,R9               200R                                              
+1    R10                 13K                                               
+1    R11                 56K                                               
+1    R12                 1K                                                
+1    R13                 160K                                              
+4    R14-R16,R18         100K                                              
+1    R17                 100R                                              
+
+Capacitors
+----------
+1    C1                  18pF                                              
+1    C2                  560pF              Polypropylene                                             
+3    C3-C5               6.8nF              Polypropylene                               
+
+Integrated Circuits
+-------------------
+1    U1                  J2144                                             
+1    U2                  LM13700                                           
+1    U3                  OPA2134PA                                         
+
+Diodes
+------
+2    D1,D2               1N4148                                            
+
+Miscellaneous
+-------------
+6    BP1-BP6             100nF              0805 Bypass Capacitors                               
+2    FB1,FB2             0R                 Ferrite Beads                               
+4    FM1LVL,FM2LVL,IN,   100K                                              
+     TUNE
+1    J1                  SIL-156-04         Power Header                               
+2    PF1,PF2             10uF               Electrolytic Filter Capacitors                               
+1    RES                 100K                                              
+1    VOCT                50K                Bourns 3362P Trim                                             
+
+
