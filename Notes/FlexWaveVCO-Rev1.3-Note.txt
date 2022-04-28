@@ -1,0 +1,24 @@
+Note:  FlexWave VCO 1.2 and 1.3
+
+I have noticed on two builds (but not on all the others (I've built many)) that
+the LED driver on the primary oscillator can occasionally cause some odd behavior.
+It doesn't usually happen on the mod oscillator, bit is techincally possible.
+
+It may be related to current draw, and there are a couple of ways to mitigate or
+eliminate the issues, if your board shows this behavior. 
+
+What you'll notice, if this is happening, is an oddly shaped triangle wave, or a
+mishapen sine wave.
+
+If you see this there are two possible methods to resolve it.  
+
+Increase the value of the resistor feeding the LED driver op amp.
+
+This is R34 (Primary) and R120 (Mod Oscillator)
+
+Try increasing to 2.2K or possibly even a bit higher like 3K-3.3K
+
+If you're still getting this issue:
+
+Lift the entry side of R34 (or R120 on the mod side).  Run jumper to another
+output, like 4Q multiplier output, shaped out, triangle out, etc.  
