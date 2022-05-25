@@ -22,3 +22,10 @@ More files on the way soon!
 
 UPDATE: 4/27/22
 The UtilOSC docs are kind of a special case.  The schematic and BOM are accurate.  I have a stack of boards.  I do not have the board layout any longer.  I accidentally deleted it with no backup to recover.  I had to reverse engineer the PCB with a meter, and pull part values from my other 2131 designs.  I'll need to lay out a completely new board going forward.  However, for those that want to build their own, the schematic and BOM is accurate and tested on physical PCBs.
+
+UPDATE: 5/25/22
+Added the final schematic (probably)  :)  for the Excessively Complex VCO.  The PCB layout is complete, and a final 4U panel has been created.
+
+My first MU panel has just been manufactured.  I may start making small batches of them with specific modules.
+
+More updated, fixed, and improved schematics will be uploaded shortly.
