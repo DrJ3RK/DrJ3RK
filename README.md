@@ -29,3 +29,18 @@ Added the final schematic (probably)  :)  for the Excessively Complex VCO.  The 
 My first MU panel has just been manufactured.  I may start making small batches of them with specific modules.
 
 More updated, fixed, and improved schematics will be uploaded shortly.
+
+UPDATE: 9/7/22
+A complete new batch of schematics will be available soon.  This includes fixed or improved versions of current ones, as well as many new ones.
+
+Quick Note: I found that with the UtilOSC, Excessively Complex VCO, VCO++ (and other SSI2131 based VCOs of mine, which were based on the datasheet) were not tracking quite right.  After quite a bit of experimentation, I arrived at a good set of component values that yield excellent tracking without the need for trims.  I'm not sure why all of these VCOs exhibited this behavior, but it's just a matter of a few resistor swaps, and one cap.  I will update all schematics, BOMs, and notes, but here are the basics (based on the UtilOSC designations):
+Change:
+R10 to 100K
+R5 to parallel 56.3K and 1M  (Looking for value close to 50.6K to 50.8K but under 51K)
+R7 to 4.7R
+R8 to 220K
+C8 to 3300pF
+
+That will create a useful overall range with excellent tracking.
+
+More news coming soon.  I'm just wrapping up a few builds now, and then updated docs will be my main focus.
