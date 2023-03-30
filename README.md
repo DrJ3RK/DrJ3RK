@@ -20,3 +20,6 @@ The first fully updated project to be uploaded is the Neo VCO Core.  This is use
 More updates to follow.
 
 Dustin
+
+Update:
+Dual Linear SSI2164 VCA 2.0 Docs up.
