@@ -22,8 +22,9 @@ More updates to follow.
 Dustin
 
 Update:
-Dual Linear SSI2164 VCA 2.0 Docs up.
-Smooth It VC Slew 2.0 Docs up.
-Dual Power Linear Power Supply Docs up.
+
+More projects refined, updated, and uploaded.  I removed the Panel FPD folder for the moment.  I'm updating these as well, and will put up a full set of new ones.  I will also put many of the older ones into a folder in the ARCHIVE section, as they make good templates.  However, it's easier to wipe a folder, then re-upload than to try to move things around in GitHub.  
+
+More Updates Soon!!!
 
 Dustin
