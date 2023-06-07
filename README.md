@@ -11,3 +11,5 @@ Update - 6/7/2023
 More schematics and BOMs have been uploaded.  More on the way soon.
 
 Dustin
+
+Note: The "Foldy" wave folder simulates perfectly, but hasn't been tested yet.  Still laying out the PCB.  Should work fine, but may need some minor tweaks in the feedback paths of the folder block.
