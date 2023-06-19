@@ -15,3 +15,7 @@ Dustin
 Note: The "Foldy" wave folder simulates perfectly, but hasn't been tested yet.  Still laying out the PCB.  Should work fine, but may need some minor tweaks in the feedback paths of the folder block.
 
 Note: SREDDAL FILTER has not been tested yet.  The main filter block has been on a separate design, but the new voltage control for resonance and VCA section has been newly added.
+
+Added some 3" Panel files for some of the recent modules.
+
+More items on the way soon.
