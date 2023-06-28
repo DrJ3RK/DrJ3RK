@@ -21,3 +21,5 @@ Added some 3" Panel files for some of the recent modules.
 More items on the way soon.
 
 Final version of the Transform Crossfader/Panner/DualVCA/Mixer is now up.  Currently working on getting more panels up to date to match these projects.
+
+Uploaded Panel Files for all current projects.  Some may need minor fixes, and I'll be looking at that shortly.
