@@ -23,3 +23,7 @@ More items on the way soon.
 Final version of the Transform Crossfader/Panner/DualVCA/Mixer is now up.  Currently working on getting more panels up to date to match these projects.
 
 Uploaded Panel Files for all current projects.  All panels are correct. 6-28-2023
+
+More Schematics and BOMs uploaded.  I'll have the panels up for the new ones shortly.
+
+Dustin
