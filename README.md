@@ -7,6 +7,9 @@ Note: These schematics will contain specific op amps that may or may not be reco
 
 Dustin
 
+Update - 10/11/2023
+More files have been updated, and there will be more panel FPD files uploaded soon.  More options for panel widths for various builds, etc.  There will be some completely new designs up soon as well.  They're progressing slowly due to the build backlog, but they're getting there.  :)
+
 Update - 6/7/2023
 More schematics and BOMs have been uploaded.  More on the way soon.
 
