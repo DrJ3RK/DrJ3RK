@@ -7,7 +7,7 @@ One of the main reasons for this, is that there are a few circuit portions in so
 
 Most designs here are different enough from existing like functions though.  For exmaple the Angle Generators were completely designed from scratch by myself and a relative, so I'm happy to share. (despite the functionality resembling the Serge USG or Buchla 281) 
 
-Note: These schematics will contain specific op amps that may or may not be recommended, required, or just there because that's how I laid out the schematic.  90%+ can be swapped out for your favorite TL07x type, or something fancier.  There are a few that are more or less required, and I will be adding both notes, and notes inside the BOMs with my recommendations for this.  (for example, the Line Out module has OPA2604 in the schematic.  I prefer LME49720, but you could use anything for this circuit)
+Note: These schematics will contain specific op amps that may or may not be recommended, required, or just there because that's how I laid out the schematic.  90%+ can be swapped out for your favorite TL07x type, or something fancier.  There are a few that are more or less required, and I will be adding both notes, and notes inside the BOMs with my recommendations for this.  (for example, the Line Out module has OPA2604 in the schematic.  I prefer LME49720, but you could use anything for this circuit) OPA1657, LM4562MAX etc.
 
 Dustin
 
