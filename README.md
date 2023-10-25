@@ -11,6 +11,9 @@ Note: These schematics will contain specific op amps that may or may not be reco
 
 Dustin
 
+Update - 10/25/2023
+Original Operator VCO design is now in the Archive section.  I'll upload newer versions as soon as I locate the files.  :) 
+
 Update - 10/11/2023
 More files have been updated, and there will be more panel FPD files uploaded soon.  More options for panel widths for various builds, etc.  There will be some completely new designs up soon as well.  They're progressing slowly due to the build backlog, but they're getting there.  :)
 
@@ -34,3 +37,4 @@ Uploaded Panel Files for all current projects.  All panels are correct. 6-28-202
 More Schematics and BOMs uploaded.  I'll have the panels up for the new ones shortly.
 
 Dustin
+
