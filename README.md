@@ -1,7 +1,9 @@
 Synth Circuits by J3RK (Dustin Stroh / Stroh Modular)
 
 Please feel free to use these files, designs, parts of the designs, etc. to build your own circuits, synths, modules, PCBs, etc.  
-I would ask that if you're going to make a retail project (beyond DIY PCBs) that you get in touch with me.  This isn't something that I mind, but would like the chance to discuss it first.  I can be reached via PM at www.modwiggler.com as J3RK.  From there I can give you my email address.  One of the main reasons for this, is that there are a few circuit portions in some of these that were used with permission from other designers.  For example the Operator sawtooth core is my version of Ian Fritz' version of Terry Michaels' sawtooth.  I received permission to use the basic core for this.  The phase modulator is also a Bernie Hutchins circuit (well part of it) that I also received permission to use.  There are others as well, but if any of these were going into a commercial project, I would want to get further permission where possible.
+I would ask that if you're going to make a retail project (beyond DIY PCBs) that you get in touch with me.  This isn't something that I mind, but would like the chance to discuss it first.  I can be reached via PM at www.modwiggler.com as J3RK.  From there I can give you my email address.  
+
+One of the main reasons for this, is that there are a few circuit portions in some of these that were used with permission from other designers.  For example the Operator sawtooth core is my version of Ian Fritz' version of Terry Michaels' sawtooth.  I received permission to use the basic core for this.  The phase modulator is also a Bernie Hutchins circuit (well part of it) that I also received permission to use.  There are others as well, but if any of these were going into a commercial project, I would want to get further permission where possible.
 
 Most designs here are different enough from existing like functions though.  For exmaple the Angle Generators were completely designed from scratch by myself and a relative, so I'm happy to share. (despite the functionality resembling the Serge USG or Buchla 281) 
 
