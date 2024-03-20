@@ -11,30 +11,7 @@ Note: These schematics will contain specific op amps that may or may not be reco
 
 Dustin
 
-Update - 10/25/2023
-Original Operator VCO design is now in the Archive section.  I'll upload newer versions as soon as I locate the files.  :) 
-
-Update - 10/11/2023
-More files have been updated, and there will be more panel FPD files uploaded soon.  More options for panel widths for various builds, etc.  There will be some completely new designs up soon as well.  They're progressing slowly due to the build backlog, but they're getting there.  :)
-
-Update - 6/7/2023
-More schematics and BOMs have been uploaded.  More on the way soon.
+Update - 3/20/2024
+New files uploaded today.  More on the way soon!  Revisions, and new designs.  Schematics and BOMs.  I don't have new panel layouts for them yet, but those are in the works.
 
 Dustin
-
-Note: The "Foldy" wave folder simulates perfectly, but hasn't been tested yet.  Still laying out the PCB.  Should work fine, but may need some minor tweaks in the feedback paths of the folder block.
-
-Note: SREDDAL FILTER has not been tested yet.  The main filter block has been on a separate design, but the new voltage control for resonance and VCA section has been newly added.
-
-Added some 3" Panel files for some of the recent modules.
-
-More items on the way soon.
-
-Final version of the Transform Crossfader/Panner/DualVCA/Mixer is now up.  Currently working on getting more panels up to date to match these projects.
-
-Uploaded Panel Files for all current projects.  All panels are correct. 6-28-2023
-
-More Schematics and BOMs uploaded.  I'll have the panels up for the new ones shortly.
-
-Dustin
-
