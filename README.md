@@ -15,3 +15,8 @@ Update - 3/20/2024
 New files uploaded today.  More on the way soon!  Revisions, and new designs.  Schematics and BOMs.  I don't have new panel layouts for them yet, but those are in the works.
 
 Dustin
+
+Update - 9/9/2024
+Updated a few designs.  Uploaded the Divider schematic and BOM.  (didn't realize that I hadn't put it up previously) 
+
+Dustin
