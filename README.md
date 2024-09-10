@@ -20,3 +20,8 @@ Update - 9/9/2024
 Updated a few designs.  Uploaded the Divider schematic and BOM.  (didn't realize that I hadn't put it up previously) 
 
 Dustin
+
+Update - 9/10/2024
+Updated more designs.  Uploaded SHIFTY-Register routable tap digital noise generator.
+
+Dustin
