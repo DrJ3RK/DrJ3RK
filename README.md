@@ -30,4 +30,6 @@ Update - 4/23/2025
 New version of the Voltage Controlled Angle Generator.  This one "Plus" (Rev 3.0) includes an End of Cycle trigger output.  (highly requested for the VC version)
 I recently uploaded a work in progress Voltage Addressable Step and Gate Generator in the "New Without PCB" section.  It's now tested on PCB, but needs a major revision.  I'm leaving the schematic until the corrected version is ready.  Just wanted to mention that it will NOT work as is in this pre-version.
 
+There are many new schematics and revisions coming soon.  My build backlog is nearly completed, and I'll be getting back to more design.  I also noticed that I hadn't uploaded a few current version projects either, so these will also go up soon.
+
 Dustin
