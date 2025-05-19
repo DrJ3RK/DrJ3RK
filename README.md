@@ -33,3 +33,8 @@ I recently uploaded a work in progress Voltage Addressable Step and Gate Generat
 There are many new schematics and revisions coming soon.  My build backlog is nearly completed, and I'll be getting back to more design.  I also noticed that I hadn't uploaded a few current version projects either, so these will also go up soon.
 
 Dustin
+
+Update - 5-19-2025
+New Version of the Dual VCA.  (Version 2.5) It now includes a summing mixer for the channels, and the panel has level pots for one of the two CV inputs on each channel, as well as an output level for the summed output.  This allows it to function as a voltage controlled mixer in a small space/system.  Uploading the panel drawing shortly.
+
+Dustin
