@@ -5,7 +5,7 @@ I would ask that if you're going to make a retail project (beyond DIY PCBs) that
 
 One of the main reasons for this, is that there are a few circuit portions in some of these that were used with permission from other designers.  For example the Operator sawtooth core is my version of Ian Fritz' version of Terry Michaels' sawtooth.  I received permission to use the basic core for this.  The phase modulator is also a Bernie Hutchins circuit (well part of it) that I also received permission to use.  There are others as well, but if any of these were going into a commercial project, I would want to get further permission where possible.
 
-Most designs here are different enough from existing like functions though.  For exmaple the Angle Generators were completely designed from scratch by myself and a relative, so I'm happy to share. (despite the functionality resembling the Serge USG or Buchla 281) 
+Most designs here are different enough from existing like functions though.  For exmaple the Angle Generators were completely designed from scratch by myself and a relative, (Seth Stroh) so I'm happy to share. (despite the functionality resembling the Serge USG or Buchla 281) 
 
 Note: These schematics will contain specific op amps that may or may not be recommended, required, or just there because that's how I laid out the schematic.  90%+ can be swapped out for your favorite TL07x type, or something fancier.  There are a few that are more or less required, and I will be adding both notes, and notes inside the BOMs with my recommendations for this.  (for example, the Line Out module has OPA2604 in the schematic.  I prefer LME49720, but you could use anything for this circuit) OPA1657, LM4562MAX etc.
 
